@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * @Author:
  * @Date: 2020/5/14 13:52
- * @Version: 1.0你好啊ss
+ * @Version: 1.0你好啊sssss
  */
 @TableName("sys_user")
 public class User implements Serializable {
